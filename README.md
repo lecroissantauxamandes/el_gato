@@ -7,3 +7,5 @@ Areas of interest (freeform list)
 * Health and wellness
 * Growth
 * Digital community
+* Social security/ retirement planning
+* Savings v paycheck-to-paycheck spending   
